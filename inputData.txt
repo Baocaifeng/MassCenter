@@ -1,0 +1,49 @@
+{
+"faces": [
+{
+"id": "12F98894F90", "type": "face",
+"outer_loop": "12F984586AC", "inner_loops": [ "12F98458698", "12F98458684" ]
+},
+{ "id": "12F988617F8", "type": "face", "outer_loop": "12F983717E8", "inner_loops":[]},
+{ "id": "12F98837FC0", "type": "face", "outer_loop": "12F983716D0", "inner_loops":[]}
+],
+"loops": [
+{
+"id": "12F984586AC", "type": "loop",
+"vertices": [
+"12F986C59E4", "12F986C59F8", "12F986C59A8", "12F986C596C",
+"12F986C5944", "12F986C591C", "12F986C58F4"
+]
+},
+{ "id": "12F98458698", "type": "loop", "vertices": [ "12F984D3230", "12F984D321C","12F984D31F4" ] },
+{ "id": "12F98458684", "type": "loop", "vertices": [ "12F98482218", "12F98482204","12F984821DC" ] },
+{ "id": "12F983717E8", "type": "loop", "vertices": [ "12F986C58B8", "12F986C58A4","12F986C587C" ] },
+{
+"id": "12F983716D0", "type": "loop",
+"vertices": [ "12F986F4BA4", "12F986F5784", "12F986C582C", "12F986C5804" ]
+}
+],
+"vertices":[
+{ "id": "12F986C59E4", "type": "vertex", "position": "91.47|-80.58" },
+{ "id": "12F986C58F4", "type": "vertex", "position": "-132.28|-368.21" },
+{ "id": "12F986C591C", "type": "vertex", "position": "246.54|-464.4" },
+{ "id": "12F986C5944", "type": "vertex", "position": "492.69|-206.52" },
+{ "id": "12F986C596C", "type": "vertex", "position": "392.65|41.1" },
+{ "id": "12F986C59A8", "type": "vertex", "position": "197.71|73.93" },
+{ "id": "12F986C59F8", "type": "vertex", "position": "207.19|-231.06" },
+{ "id": "12F986C58A4", "type": "vertex", "position": "-481.43|246.43" },
+{ "id": "12F986C587C", "type": "vertex", "position": "-9.85|377.76" },
+{ "id": "12F986C58B8", "type": "vertex", "position": "-262.49|-37.49" },
+{ "id": "12F986F5784", "type": "vertex", "position": "-50.0|50.0" },
+{ "id": "12F986F4BA4", "type": "vertex", "position": "-50.0|-50.0" },
+{ "id": "12F986C5804", "type": "vertex", "position": "50.0|-50.0" },
+{ "id": "12F986C582C", "type": "vertex", "position": "50.0|50.0" },
+{ "id": "12F984D321C", "type": "vertex", "position": "306.34|-154.68" },
+{ "id": "12F984D31F4", "type": "vertex", "position": "269.65|-284.8" },
+{ "id": "12F984D3230", "type": "vertex", "position": "429.69|-220.14" },
+{ "id": "12F98482204", "type": "vertex", "position": "66.81|-260.72" },
+{ "id": "12F984821DC", "type": "vertex", "position": "123.04|-344.32" },
+{ "id": "12F98482218", "type": "vertex", "position": "171.89|-274.42" }
+]
+}
+
